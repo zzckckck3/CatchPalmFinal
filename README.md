@@ -1,5 +1,5 @@
 # CatchPalm - 손으로 리듬을 잡아라!
-![image](/uploads/b3b8e6b0d33f350b50090cb42dd6c4d6/image.png)
+![image](https://github.com/zzckckck3/CatchPalmFinal/assets/65270703/ac6c5bd8-372c-4d1a-8170-b9b2916fa5af)
 ## 소개 및 시연 영상
 
 ## 개요
@@ -11,14 +11,14 @@ VR게임의 시대! 그런데 VR기기 너무 비싸고 불편하지 않나요? 
 ## 주요 서비스 화면
 
 ### 게임 실행 화면
-![게임실행화면](/uploads/9860b76ec4be6c7b4638bf1de1cbf494/게임실행화면.gif)
+![image](https://github.com/zzckckck3/CatchPalmFinal/assets/65270703/9758ecb1-f8fa-4d17-9cbd-a991c2c2bd9b)
 ### 대기방
-![대기방](/uploads/bd2a1ba71e856218202edeebbfc2f4a0/대기방.gif)
+![image](https://github.com/zzckckck3/CatchPalmFinal/assets/65270703/913d7aaf-29ba-404f-95e6-5765e399fb53)
 ### 결과창
-![결과창](/uploads/dc295827d0ac71cba5328909423a1d3e/결과창.gif)
+![image](https://github.com/zzckckck3/CatchPalmFinal/assets/65270703/d5df79d8-448e-448f-99d8-d49076f3445c)
 ### 랭킹 창
-![랭킹창](/uploads/3afec457adb570dd5650e011bd790728/랭킹창.gif)
-#### 더 자세한 정보는 https://lab.ssafy.com/s09-webmobile1-sub2/S09P12C206/-/blob/master/scenario-details.md 에서!
+![image](https://github.com/zzckckck3/CatchPalmFinal/assets/65270703/79bc836d-4603-4b10-abb7-81c78e74230c)
+#### 더 자세한 정보는 https://github.com/zzckckck3/CatchPalmFinal/edit/master/scenario-details.md 에서!
 
 ---
 
@@ -75,12 +75,12 @@ VR게임의 시대! 그런데 VR기기 너무 비싸고 불편하지 않나요? 
 - Discord
 
 ## 요구사항 정의서
-![image](/uploads/5b79fcf3490948ac721ac5e13c1ea85d/image.png)
-![image](/uploads/14b8ae3e622d16289031963fca965dea/image.png)
+![image](https://github.com/zzckckck3/CatchPalmFinal/assets/65270703/6ae393e5-1bf9-45b3-8123-0ac8141bfb62)
+![image](https://github.com/zzckckck3/CatchPalmFinal/assets/65270703/1489b4e2-54ad-4faa-bd58-7a4f6b535212)
 
 ## ER Diagram
-![image](/uploads/373466011e559dcfcf3d367167bf51b6/image.png)
-![image](/uploads/d213e0a9c736d478a899096ea0c6a518/image.png)
+![image](https://github.com/zzckckck3/CatchPalmFinal/assets/65270703/40f23c75-6ef6-42fa-8806-fecbc2ead19d)
+![image](https://github.com/zzckckck3/CatchPalmFinal/assets/65270703/107168c9-ff78-4ff1-83c8-7095ac2b7e28)
 
 ## EC2 포트 정리
 |Port|내용|
