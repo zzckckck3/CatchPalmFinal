@@ -11,13 +11,13 @@ VR게임의 시대! 그런데 VR기기 너무 비싸고 불편하지 않나요? 
 ## 주요 서비스 화면
 
 ### 게임 실행 화면
-![image](https://github.com/zzckckck3/CatchPalmFinal/assets/65270703/9758ecb1-f8fa-4d17-9cbd-a991c2c2bd9b)
+![게임실행화면](https://github.com/zzckckck3/CatchPalmFinal/assets/65270703/97c0acb6-4012-4732-9d60-614edce9d020)
 ### 대기방
-![image](https://github.com/zzckckck3/CatchPalmFinal/assets/65270703/913d7aaf-29ba-404f-95e6-5765e399fb53)
+![멀티모드방기능1](https://github.com/zzckckck3/CatchPalmFinal/assets/65270703/f626b2f3-c16c-4d20-848b-24e1f62116e7)
 ### 결과창
-![image](https://github.com/zzckckck3/CatchPalmFinal/assets/65270703/d5df79d8-448e-448f-99d8-d49076f3445c)
+![결과창](https://github.com/zzckckck3/CatchPalmFinal/assets/65270703/e1d299f2-ba17-476c-92fe-f5222af7f468)
 ### 랭킹 창
-![image](https://github.com/zzckckck3/CatchPalmFinal/assets/65270703/79bc836d-4603-4b10-abb7-81c78e74230c)
+![랭킹창](https://github.com/zzckckck3/CatchPalmFinal/assets/65270703/1a5deceb-38d7-41c3-a84c-0afa7eaa9f89)
 #### 더 자세한 정보는 https://github.com/zzckckck3/CatchPalmFinal/blob/master/scenario-details.md 에서!
 
 ---
