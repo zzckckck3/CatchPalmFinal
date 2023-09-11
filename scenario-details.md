@@ -56,6 +56,7 @@ Catchpalm을 재밌게 즐기기 위한 안내 문구, 로그인, 회원가입�
 - 회원가입은 이메일 인증이 필요한 자체 회원 가입이 가능한 대신, 로그인을 구글 로그인을 통해 로그인 할 수 있습니다.
 - 회원가입은 나이, 성별을 입력받습니다.
 - 잘못된 이메일 형식이나 중복된 이메일은 사용할 수 없습니다.
+- 
 ![홈화면](https://github.com/zzckckck3/CatchPalmFinal/assets/65270703/d1e1a03f-fc3c-499a-a63d-cd2ca913d5b1)
 ![홈화면회원가입](https://github.com/zzckckck3/CatchPalmFinal/assets/65270703/b6f0dcef-06e9-42c2-ba28-3981b286e0c9)
 ![이메일인증완료](https://github.com/zzckckck3/CatchPalmFinal/assets/65270703/83c5055e-2fe4-4733-a298-0abb7f84a219)
@@ -63,15 +64,18 @@ Catchpalm을 재밌게 즐기기 위한 안내 문구, 로그인, 회원가입�
 #### 홈 화면 (로그인)
 튜토리얼, 솔로모드, 멀티모드, 랭킹, 프로필로 접근이 가능한 버튼이 있습니다.
 - 구글 계정으로도 로그인이 가능합니다.
+- 
 ![구글로그인](https://github.com/zzckckck3/CatchPalmFinal/assets/65270703/65f96c21-b447-4a95-8090-b34ee0083330)
 
 #### 프로필 (우측 슬라이드창)
 프로필 사진, 닉네임, 나이 변경이 가능합니다.
 - 중복된 닉네임은 사용할 수 없습니다.
+- 
 ![홈화면및프로필](https://github.com/zzckckck3/CatchPalmFinal/assets/65270703/da372fa2-6055-42aa-badc-f0308ea4f726)
 
 #### 튜토리얼
 게임소개와 함께 게임을 플레이하는 방법을 안내합니다.
+
 ![튜토리얼시작](https://github.com/zzckckck3/CatchPalmFinal/assets/65270703/37e66b71-9397-4b5a-8c0d-119926447f9e)
 ![튜토리얼진행](https://github.com/zzckckck3/CatchPalmFinal/assets/65270703/48530732-1a89-4f13-8ca3-52c29f664501)
 
@@ -86,6 +90,7 @@ Catchpalm을 재밌게 즐기기 위한 안내 문구, 로그인, 회원가입�
 - 방장은 곡 변경이 가능하고, 타 플레이어에게 반영
 - 방장은 방장 권한으로 플레이어를 강퇴 가능
 - 방장 권한은 방장이 나갈 시 일반 플레이어에게 넘어감
+- 
 ![멀티모드방생성](https://github.com/zzckckck3/CatchPalmFinal/assets/65270703/a21bc6b5-0b6f-488c-827e-f237ba64c8e8)
 ![멀티모드방진입](https://github.com/zzckckck3/CatchPalmFinal/assets/65270703/ec960421-c1a4-46d2-be0e-c1ab076e539f)
 ![멀티모드방기능1](https://github.com/zzckckck3/CatchPalmFinal/assets/65270703/f626b2f3-c16c-4d20-848b-24e1f62116e7)
@@ -95,12 +100,15 @@ Catchpalm을 재밌게 즐기기 위한 안내 문구, 로그인, 회원가입�
 화면에 뜨는 손 모양을 박자에 맞춰 올바른 위치에 맞추면 맞춘 타이밍에 따라 Perfect, Great, Miss중 하나로 계산되어 점수에 반영됩니다.
 - 멀티모드에서 게임 시, 방에 있는 다른 사람들의 얼굴을 우측에서 확인 가능 (OpenVidu 화상연결) 
 - 게임 종료 시, 방에 있는 다른 사람들의 점수와 해당 방 랭킹을 확인할 수 있습니다.
+- 
 ![게임실행화면](https://github.com/zzckckck3/CatchPalmFinal/assets/65270703/97c0acb6-4012-4732-9d60-614edce9d020)
 ![결과창](https://github.com/zzckckck3/CatchPalmFinal/assets/65270703/e1d299f2-ba17-476c-92fe-f5222af7f468)
 
 #### 랭킹페이지
 곡별로 다른 사람들의 전체 랭킹을 확인할 수 있고, 내 랭킹은 하단에서 확인할 수 있습니다.
+
 ![랭킹창](https://github.com/zzckckck3/CatchPalmFinal/assets/65270703/1a5deceb-38d7-41c3-a84c-0afa7eaa9f89)
 #### 솔로모드
 멀티모드와 기본적으로는 동일하나, 클릭 시 즉시 1인 방이 생성됩니다.
+
 ![솔로모드](https://github.com/zzckckck3/CatchPalmFinal/assets/65270703/5f4bbd2c-e89a-494b-8316-78857bef0723)
